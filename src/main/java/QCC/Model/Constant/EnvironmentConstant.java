@@ -12,9 +12,9 @@ import java.util.List;
 public class EnvironmentConstant {
     private String paasIp = "";
     private String cspUser = "cspexpert";
-    private String cspPwd = "mt2017@cspos@HW";
+    private String cspPwd = "";
     private String rootUser = "root";
-    private String rootPwd = "cnp200@cspos@HW";
+    private String rootPwd = "";
 
 
     private List<String> instances = new ArrayList<>();
